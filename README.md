@@ -98,9 +98,14 @@ Wu, X., & Cheng, Q. (2021). Fractal Autoencoders for Feature Selection. Proceedi
 ---
   
 ## Release History
-
+* 0.0.3
+    * ADD: Added the version information in use
+    
+    Python 3.7.8, Tensorflow 1.14, Keras 2.2.5, JupyterLab 2.2.9
+    
 * 0.0.2
     * CHANGE: Update README.md
+
 * 0.0.1
     * ADD: Model, Examples, and Experiments
 
